@@ -1,2 +1,8 @@
-# C_Programming_Practice
-My C programming upskilling journey — practicing basics, functions, DSA, and algorithms to sharpen problem-solving and placement skills.
+# C-Programming-Practice
+Upskilling myself in C programming through structured examples:
+- Basics
+- Control Flow
+- Functions
+- Advanced
+- Data Structures
+- Algorithms
